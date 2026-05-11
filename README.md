@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 💫 About Me:<br><br>🔭 I’m currently working on  <br>Data Analytics, AI/ML projects, and improving my problem-solving skills through real-world projects  <br><br>🤝 I’m looking to collaborate on  <br>AI/ML, Data Analytics, and Web Development projects  <br><br>🤲 I’m looking for help with  <br>Building real-world AI/ML projects, improving practical skills, and exploring industry-level workflows  <br><br>🌱 I’m currently learning  <br>Machine Learning, Deep Learning, Python, SQL, and Power BI <br><br>💬 Ask me about  <br>Python, Data Analysis, Excel, SQL, GitHub, and beginner-friendly AI/ML concepts  <br><br>⚡ Fun fact  <br>Started from sales & pre-sales, now transitioning into the world of Data Analytics and AI/ML 
 
 
